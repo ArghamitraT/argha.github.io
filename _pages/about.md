@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎒 I am a first year PhD student and NSF CSGrad4US fellow in the Department of Computer Science at Columbia University in New York, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
+🎒 I am a first year PhD student and NSF CSGrad4US fellow in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
 
 🌌 My research involves machine learning and modelling implementation in Computational Biology. Previously I worked to detect inter protein contact identification using multi-modal data. 
 
