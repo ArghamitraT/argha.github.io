@@ -22,8 +22,8 @@ Teaching Assistant
 
 News
 ======
-**09/2023.** Starting my PhD at Columbia University 🎉. 
+**09/2023.** Starting my PhD at Columbia University 🎉. <br>
 **07/2023.** Left Texas Instruments with great experiences and a lot of learnings.
 
-**12/2022.** [Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?](https://www.mlsb.io/papers_2022/Does_Inter_Protein_Contact_Prediction_Benefit_from_Multi_Modal_Data_and_Auxiliary_Tasks.pdf)) is accepted @ MLSB Workshop, NeurIPS’22.
-**08/2022.** Got accepted for NSF CISE CSGrad4US fellowship which funds 3 years of my PhD. 
+**12/2022.** [Does Inter-Protein Contact Prediction Benefit from Multi-Modal Data and Auxiliary Tasks?](https://www.mlsb.io/papers_2022/Does_Inter_Protein_Contact_Prediction_Benefit_from_Multi_Modal_Data_and_Auxiliary_Tasks.pdf)) is accepted @ MLSB Workshop, NeurIPS’22. <br>
+**08/2022.** Got accepted for NSF CISE CSGrad4US fellowship which funds 3 years of my PhD. <br>
