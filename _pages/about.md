@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-🎒 I am a first year PhD student and NSF CSGrad4US fellow in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
+🎒 I am a 2nd year PhD student and NSF CSGrad4US fellow in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
 
-👓 My research involves machine learning implementation in Computational Biology. Previously I worked to detect inter protein contact using multi-modal data. 
+👓 My research involves machine learning implementation in Computational Biology. My projects include computational quantification of cellular plasticity, isoform abundance. Previously I worked to detect inter protein contact using multi-modal data. 
 
 💻 After my bachelor's, I worked at Texas Instruments, Dallas as Test/Product Engineer.
 
 
-Teaching Assistant
-======
-1. Experimental Physics and Engineering Lab II-Mechanics (Instructor: Prof. Anthony Cahill).
-1. Foundation of Engineering (Instructor: Michael Powell).
-
 News
 ======
+**06/2024.** Joined Schrödinger's Catalyzing Gender Equity event, presented my work on isoform quantification. <br>
+**04/2024.** Joined CRA-WP Grad Cohort for IDEALS Workshop, presented my work on quantifying cellular plasticity.
+
 **09/2023.** Starting my PhD at Columbia University 🎉. <br>
 **07/2023.** Left Texas Instruments with great experiences and a lot of learnings.
 
